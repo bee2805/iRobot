@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iRobot</string>
+
+    <string name="app_description">This is an awesome app!</string>
+    <string name="main_heading">Are you a robot?</string>
+
+</resources>
